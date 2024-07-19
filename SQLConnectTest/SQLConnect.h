@@ -16,9 +16,9 @@ using namespace std;
 
 
 //for demonstration only. never save your password in the code!
-const string server = "tcp://127.0.0.1:3306";
-const string username = "root";
-const string password = "1234";
+const string server = "yourip";
+const string username = "your_username";
+const string password = "your_password";
 
 
 
@@ -44,14 +44,6 @@ public:
     virtual SQLTable* createTable(string tableName, vector<pair<string, string>>& attributes);
     virtual SQLTable* createTable(string tableName, string query);
 
-    //void executeQuery(string Query, int n) {
-    //    stmt = con->createStatement();
-    //    sql::ResultSet *result; 
-    //    // it requires pstm as the function prepareStatement is required
-    //    // create an enum to choose which command is used and then overload the function accordingly
-    //    result = stmt->execute(Query);
-    //}
-
 };
 
 
@@ -73,15 +65,3 @@ public:
 
 
 
-//class SQLTable {
-//private:
-//    string tablename;
-//public:
-//    SQLTable(string name);
-//
-//    void select();
-//    void update();
-//    void alter();
-//    void deleteTable();
-//
-//};

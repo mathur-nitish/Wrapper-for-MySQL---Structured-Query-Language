@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git_Local\\C-_Wrapper_SQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|solutionrelative:SQLConnectTest\\SQLTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLConnect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|solutionrelative:SQLConnectTest\\SQLConnect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\select.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|solutionrelative:SQLConnectTest\\select.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|solutionrelative:SQLConnectTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLConnect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|solutionrelative:SQLConnectTest\\SQLConnect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19485C52-3D3A-4488-81ED-5696CE58C5D3}|SQLConnectTest\\SQLConnectTest.vcxproj|solutionrelative:SQLConnectTest\\SQLTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLTable.cpp",
+              "DocumentMoniker": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLTable.cpp",
+              "RelativeDocumentMoniker": "SQLConnectTest\\SQLTable.cpp",
+              "ToolTip": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLTable.cpp",
+              "RelativeToolTip": "SQLConnectTest\\SQLTable.cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T22:23:34.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLConnect.cpp",
+              "DocumentMoniker": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLConnect.cpp",
+              "RelativeDocumentMoniker": "SQLConnectTest\\SQLConnect.cpp",
+              "ToolTip": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLConnect.cpp",
+              "RelativeToolTip": "SQLConnectTest\\SQLConnect.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T22:23:31.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "select.cpp",
+              "DocumentMoniker": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\select.cpp",
+              "RelativeDocumentMoniker": "SQLConnectTest\\select.cpp",
+              "ToolTip": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\select.cpp",
+              "RelativeToolTip": "SQLConnectTest\\select.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T22:23:29.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\main.cpp",
+              "RelativeDocumentMoniker": "SQLConnectTest\\main.cpp",
+              "ToolTip": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\main.cpp",
+              "RelativeToolTip": "SQLConnectTest\\main.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T22:23:25.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLConnect.h",
+              "DocumentMoniker": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLConnect.h",
+              "RelativeDocumentMoniker": "SQLConnectTest\\SQLConnect.h",
+              "ToolTip": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLConnect.h",
+              "RelativeToolTip": "SQLConnectTest\\SQLConnect.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-19T22:21:59.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLTable.h",
+              "DocumentMoniker": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLTable.h",
+              "RelativeDocumentMoniker": "SQLConnectTest\\SQLTable.h",
+              "ToolTip": "D:\\Git_Local\\C-_Wrapper_SQL\\SQLConnectTest\\SQLTable.h",
+              "RelativeToolTip": "SQLConnectTest\\SQLTable.h",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-19T22:21:48.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

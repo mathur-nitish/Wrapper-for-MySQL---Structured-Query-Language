@@ -139,24 +139,3 @@ SQLTable::SQLTable(std::string name) {
 
 
 
-
-
-
-
-    //sql::ResultSetMetaData* metaData = result->getMetaData();
-    //// getting each row
-    //int columnType = metaData->getColumnType(i);
-    //// getting each column for that row
-    //switch (columnType) {
-    //case sql::DataType::INTEGER:
-
-    //    result->getInt(i);
-    //case sql::DataType::VARCHAR:
-    //    result->getString(i);
-    //case sql::DataType::DOUBLE:
-    //    result->getDouble(i);
-    //case sql::DataType::DATE:
-    //    result->getString(i);
-    //default:
-    //    "Unknown Type";
-    //}
